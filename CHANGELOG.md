@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/GraceGaoTR/release-please-test/compare/v1.0.0...v1.1.0) (2023-12-11)
+
+
+### Features
+
+* new test file ([4900c8d](https://github.com/GraceGaoTR/release-please-test/commit/4900c8dcb1ddd41813e40717857be58d5966e6a8))
+
 ## 1.0.0 (2023-12-11)
 
 
