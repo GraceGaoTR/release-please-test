@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/GraceGaoTR/release-please-test/compare/v1.1.0...v1.2.0) (2023-12-11)
+
+
+### Features
+
+* branch merge ([ec7acd6](https://github.com/GraceGaoTR/release-please-test/commit/ec7acd6e932ccb1cb4981e77e02d9e866ef04579))
+
 ## [1.1.0](https://github.com/GraceGaoTR/release-please-test/compare/v1.0.0...v1.1.0) (2023-12-11)
 
 
